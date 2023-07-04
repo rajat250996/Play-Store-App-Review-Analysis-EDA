@@ -14,20 +14,14 @@ The objective of this experiment is to deliver insights to understand customer d
 
 ##  💾 Project Files Description
 
-<p>This Project includes 1 colab notebook, 1 technical documentation as well as 1 presentation:</p>
-
-### Executable Files:
-- [Play Store App Review Analysis](https://github.com/San13deep/Play-Store-App-Review-Analysis/blob/main/Play_Store_App_Review_Analysis_Capstone_Project.ipynb) - Includes all functions required for clustering operations.
+<p>This Project includes both datqa files, 1 colab notebook, 1 technical documentation, 1 project summary as well as 1 presentation:</p>
 
 ### Output:
-- [Google Colab](https://github.com/San13deep/Play-Store-App-Review-Analysis/blob/main/Play_Store_App_Review_Analysis_Capstone_Project.ipynb) - All the outputs are visible in the provided colab notebook.
+- [Google Colab](https://github.com/rajat250996/Play-Store-App-Review-Analysis-EDA/blob/main/Play_Store_Data_Review_Analysis.ipynb) - All the functions for operations and outputs are visible in the provided colab notebook.
 
 ### Input Files:
   <li><b>Play Store Data.csv</b> - It contains the basic details of the app like number of user reviews, ratings, etc.</li>
   <li><b>User Reviews.csv</b> - It contains the user reviews and its sentiment score for the respective app.</li>
-
-### Data Source:
-- [Dataset](https://learn.almabetter.com/courses/take/team-capstone-projects/texts/19443175-play-store-app-review-analysis-dataset) - Dataset taken from Almabetter
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
@@ -66,24 +60,23 @@ At first, we analysis the play store data and in the play store data we have 108
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 ## 📋Problem Statements
-1. What are the top categories on Play Store?
-2. Are majority of the apps Paid or Free?
-3. How importance is the rating of the application?
-4. Which categories from the audience should the app be based on?
-5. Which category has the most no. of installations?
-6. How does the count of apps varies by Genres?
-7. How does the last update has an effect on the rating?
-8. How are ratings affected when the app is a paid one?
-9. How are reviews and ratings co-related?
-10. Lets us discuss the sentiment subjectivity.
-11. Is subjectivity and polarity proportional to each other?
-12. What is the percentage of review sentiments?
-13. How is sentiment polarity varying for paid and free apps?
-14. How Content Rating affect over the App?
-15. Does Last Update date has an effects on rating?
-16. Distribution of App update over the Year.
-17. Distribution of Paid and Free app updated over the Month.
-
+1. What are the types of applications in the Play Store?
+2. What are the categories in Play Store?
+3. How many apps were installed according to their type?
+4. What are the top genres in Play Store?
+5. How many apps are installed for each category?
+6. What is the count of each application in each category differentiated by their type?
+7. What is the distribution of apps according to their size?
+8. How does size impact the number of installs?
+9. What is the distribution of apps according to their ratings?
+10. What is the number of installs as per their rating?
+11. How does size impact the rating of any app?
+12. What is the distribution of apps in terms of their ratings, size and type?
+13. How sentiment is divided for different type of reviews?
+14. What is the distribution of type of reviews, categorywise in the data set?
+15. Is sentiment subjectivity proportional to sentiment polarity?
+16. Sentiment polarity relation with paid and free app
+17. What is the content rating relation with sentiment polarity?
 ********************************************************************************************************************************************************************
 ## 📔 **What is Exploratory Data Analysis?**
 Exploratory data analysis (EDA) is used by data scientists to analyze and investigate data sets for patterns, and anomalies (outliers), and form hypotheses based on our understanding of the dataset and summarize their main characteristics, often employing data visualization methods. It is an important step in any Data Analysis or Data Science project. It helps determine how best to manipulate data sources to get the answers you need.
@@ -165,8 +158,7 @@ These are some of the aspects that the developer should research before proceedi
 
 Contact me for Data Science Project Collaborations
 
-[![GitHub](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/San13deep)
-[![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sandeepmaurya13/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajatchaudhary25/)
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
@@ -179,11 +171,8 @@ Contact me for Data Science Project Collaborations
 *	Data camp
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
-## 📜 Feedback
-- [Play Store App Review Analysis](https://learn.almabetter.com/courses/take/team-capstone-projects/texts/19443175-play-store-app-review-analysis)
-- [PPT Presentation Link](https://docs.google.com/presentation/d/1pWW9DDHigLfgkcfx0VFE9Sb3qsgjvkWQ/edit?usp=sharing&ouid=110479376441430594935&rtpof=true&sd=true)
 
-If you have any feedback, please reach out to us at sandeepskm13@gmail.com
+If you have any feedback, please reach out to us at rajat.25.chaudhary@gmail.com
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
